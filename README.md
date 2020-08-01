@@ -1,0 +1,2 @@
+# hackthebox
+NOTES FOR HTB MACHINES AND OSCP EXAM
