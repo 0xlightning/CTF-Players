@@ -6,7 +6,7 @@ Will be periodiclly updated, created with the intend of unwraping all possible w
 # Thanks for visiting
 
 A noob reacher ```lightingsarp```<br />
-contributers are accepted for helping my skills and for teaching pentration testing...👨🏽‍💻
-A member of **TPCP** 
+contributers are accepted for helping my skills and for teaching pentration testing...👨🏽‍💻<br />
+A member in **TPCP** 
 
 ``` 0X0X0💛```
