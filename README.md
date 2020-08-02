@@ -7,4 +7,4 @@ Will be periodiclly updated, created with the intend of unwraping all possible w
 A noob _cyberwr3nch🔧_ 
 A member of **TCSC** 
 
-``` 0x0x0💚```
+``` 0x0x0💛```
