@@ -5,7 +5,7 @@ Will be periodiclly updated, created with the intend of unwraping all possible w
 
 #  Thanks for Visiting
 
-A noob reacher ```lightingsarp & Masterofrobber```<br />
+A noob reacher ```lightingsarp```&``` Masterofrobber```<br />
 A member in **TPCP** 
 
 ``` 0X0X0💛```
