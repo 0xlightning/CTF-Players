@@ -1,11 +1,9 @@
-#  HackTheBox
-
-Notes Taken for HTB Machine<br />
-Will be periodiclly updated, created with the intend of unwraping all possible ways and to prep for oscp exam<br />
+# CTF WRITEUPS
+   I liked to do writeups for ctf tournament in the world. if i participate on that :?
 
 #  Thanks for Visiting
 
 A noob reacher ```lightingsarp```<br />
-A member in **TPCP** 
+A member in **TNCSC** 
 
 ``` 0X0X0💛```
