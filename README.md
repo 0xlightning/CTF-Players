@@ -1,4 +1,4 @@
-# CTF WRITEUPS
+# CTF PLAYERS
    I liked to do writeups for ctf tournament in the world. if i participate on that :?
 
 #  Thanks for Visiting
