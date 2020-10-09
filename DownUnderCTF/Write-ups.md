@@ -25,7 +25,7 @@ Points: 100
 ### Solution
 When you connect to the machine a bounch of messages are displayed and you can not execute any command. I tried to `scp` the whole home directory, but the script that displayed the messages on ssh connection was throwing some error. Looking more closely, the flag is displayed among the other messages.
 
-![image](https://user-images.githubusercontent.com/38787278/93637063-a0eab580-f9fd-11ea-8226-6cedbbc13ded.png)
+![image](https://raw.githubusercontent.com/lightningsarp/CTF-Players/master/DownUnderCTF/images/Screenshot%20from%202020-10-09%2022-31-29.png)
 
 Flag: DUCTF{w3lc0m3_t0_DUCTF_h4v3_fun!}
 
@@ -39,6 +39,8 @@ Points: 100
 
 ### Solution
 I have no idea about baseball, but I know that the string looks like encoding and it's not base 16 (hex). Base64 deconding it gives us the flag.
+
+![image](https://raw.githubusercontent.com/lightningsarp/CTF-Players/master/DownUnderCTF/images/Screenshot%20from%202020-10-09%2022-14-58.png)
 
 Flag: DUCTF{16_h0m3_run5_m34n5_runn1n6_p457_64_b4535}
 
