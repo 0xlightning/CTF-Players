@@ -79,7 +79,9 @@ with open('challenge.txt') as f:
 	print(out)
 ```
 Output:
+
 ![image](https://raw.githubusercontent.com/lightningsarp/CTF-Players/master/DownUnderCTF/images/Rot-i.png)
+
 Flag: `DUCTF{crypto_is_fun_kjqlptzy}`
 
 # <a name="forensics"></a> Forensics
