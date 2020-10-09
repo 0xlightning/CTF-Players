@@ -22,11 +22,11 @@ Points: 100
 ### Solution
 We are prompted with a page containing some text and an image. Trying to view the source HTML we notice that we can't do a Right Click. 
 
-![image](https://user-images.githubusercontent.com/38787278/93629841-99251400-f9f1-11ea-82dd-39b9f5773b7a.png)
+![image](https://raw.githubusercontent.com/lightningsarp/CTF-Players/master/DownUnderCTF/images/web.png)
 
 No problem, we append in the URL `view-source:`, so it becomes `view-source:https://chal.duc.tf:30101/`. Inside the HTML we have a hint saying `<!-- almost there -->`. We open the source code of an imported JS file and we get the flag.
 
-![image](https://user-images.githubusercontent.com/38787278/93630045-fe790500-f9f1-11ea-9364-da4874da9be3.png)
+![image](https://raw.githubusercontent.com/lightningsarp/CTF-Players/master/DownUnderCTF/images/web2.png)
 
 Flag: DUCTF{n0_k37chup_ju57_54uc3_r4w_54uc3_9873984579843}
 
