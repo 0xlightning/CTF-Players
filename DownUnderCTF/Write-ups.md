@@ -4,10 +4,6 @@
     - [16 Home Runs](#16-home-runs)
 - [Forensics](#forensics)
     - [On the spectrum](#on-the-spectrum)
-- [Crypto](#crypto)
-    - [rot-i](#rot-i)
-- [Reversing](#reversing)
-    - [Formatting](#formatting)
 
 # <a name="misc"></a> Misc
 ## <a name="welcome"></a> Welcome
