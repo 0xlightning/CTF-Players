@@ -79,9 +79,7 @@ with open('challenge.txt') as f:
 	print(out)
 ```
 Output:
-```
-you've solved the beginner crypto challenge! the flag is ductf{crypto_is_fun_kjqlptzy}. now get out some pen and paper for the rest of them, they won't all be this easy :).
-```
+![image](https://raw.githubusercontent.com/lightningsarp/CTF-Players/master/DownUnderCTF/images/Rot-i.png)
 Flag: `DUCTF{crypto_is_fun_kjqlptzy}`
 
 # <a name="forensics"></a> Forensics
