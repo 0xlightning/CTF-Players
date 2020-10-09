@@ -1,4 +1,4 @@
-##### OUR FIRST WRITEUP :?
+# OUR FIRST WRITEUP :?
 - [Misc](#misc)
     - [Welcome!](#welcome)
     - [16 Home Runs](#16-home-runs)
