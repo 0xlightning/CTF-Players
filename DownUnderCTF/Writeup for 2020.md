@@ -4,8 +4,6 @@
 - [Misc](#misc)
     - [Welcome!](#welcome)
     - [16 Home Runs](#16-home-runs)
-- [Crypto](#CRYPTO)
-    - [Rot-i](#Rot-i )
 - [Forensics](#forensics)
     - [On the spectrum](#on-the-spectrum)
 
@@ -63,50 +61,6 @@ I have no idea about baseball, but I know that the string looks like encoding an
 ![image](https://raw.githubusercontent.com/lightningsarp/CTF-Players/master/DownUnderCTF/images/Screenshot%20from%202020-10-09%2022-14-58.png)
 
 Flag: DUCTF{16_h0m3_run5_m34n5_runn1n6_p457_64_b4535}
-
-# <a name="CRYPTO"></a> CRYPTO
-## <a name="Rot-i"></a>Rot-i 
-Points : 100
-
-## Description
-ROT13 is boring!
-
-## Attachments
-> [challenge.txt](https://github.com/lightningsarp/CTF-Players/blob/master/DownUnderCTF/files/challenge.txt)
-```
-Ypw'zj zwufpp hwu txadjkcq dtbtyu kqkwxrbvu! Mbz cjzg kv IAJBO{ndldie_al_aqk_jjrnsxee}. Xzi utj gnn olkd qgq ftk ykaqe uei mbz ocrt qi ynlu, etrm mff'n wij bf wlny mjcj :).
-```
-
-## Solution
-The cipher is a ROT-n where, unlike the ROT13, the rotation `n` is given by the __position__ of the character in the string starting from 0.
-So the 1st character wouldn't have any rotation, the 2nd would have 1, the 3rd 2 and so on.
-
-To decode the message i wrote this simple python script:
-
-```python3
-#!/usr/bin/python3
-
-alphabet = "abcdefghijklmnopqrstuvwxyz"
-rot = 0
-out = ""
-
-with open('challenge.txt') as f:
-	
-	cipher = f.readline().lower()
-	
-	for c in cipher:
-		if c in alphabet: out += alphabet[alphabet.find(c)-rot%26]
-		else: out += c
-
-		rot += 1
-
-	print(out)
-```
-Output:
-
-![image](https://raw.githubusercontent.com/lightningsarp/CTF-Players/master/DownUnderCTF/images/Rot-i.png)
-
-Flag: `DUCTF{crypto_is_fun_kjqlptzy}`
 
 # <a name="forensics"></a> Forensics
 ## <a name="on-the-spectrum"></a> On the spectrum
