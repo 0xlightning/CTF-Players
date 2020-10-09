@@ -2,6 +2,8 @@
 - [Misc](#misc)
     - [Welcome!](#welcome)
     - [16 Home Runs](#16-home-runs)
+- [Crypto](#CRYPTO)
+    - [Rot-i](#Rot-i )
 - [Forensics](#forensics)
     - [On the spectrum](#on-the-spectrum)
 
@@ -15,8 +17,7 @@ Points: 100
 >ssh ductf@chal.duc.tf -p 30301
 >
 >Password: ductf
->
->Epilepsy warning
+
 
 ### Solution
 When you connect to the machine a bounch of messages are displayed and you can not execute any command. I tried to `scp` the whole home directory, but the script that displayed the messages on ssh connection was throwing some error. Looking more closely, the flag is displayed among the other messages.
@@ -41,7 +42,7 @@ I have no idea about baseball, but I know that the string looks like encoding an
 Flag: DUCTF{16_h0m3_run5_m34n5_runn1n6_p457_64_b4535}
 
 # <a name="CRYPTO"></a> CRYPTO
-## <a name="16-home-runs"></a>Rot-i 
+## <a name="Rot-i"></a>Rot-i 
 Points : 100
 
 ## Description
