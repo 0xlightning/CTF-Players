@@ -64,7 +64,10 @@ I have no idea about baseball, but I know that the string looks like encoding an
 Flag: DUCTF{16_h0m3_run5_m34n5_runn1n6_p457_64_b4535}
 
 ## <a name="Tim Tams"></a>Tim Tams
-Points : `273`
+
+Points : 273
+
+#### Description
 
 ``` When I eat too many Tim Tams, I get rather slow!
 
@@ -74,7 +77,7 @@ Download: https://storage.googleapis.com/files.duc.tf/uploads/Clive.wav
 
 File Hash (SHA256): 4C1CC12D002956A83E168CA650B776B55AAC36F2131D0DF617BE7D55DBEF93D1 
 ```
-#### SOLUTION
+### SOLUTION
 
 We are given a really noisy wav audio file, I had no clue of solving this at first when my regular audio steganography tools failed. But my teammate came into play with a really good suggestion. **QSSTV !**
 
