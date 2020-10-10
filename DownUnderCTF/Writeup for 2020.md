@@ -81,9 +81,24 @@ https://storage.googleapis.com/files.duc.tf/uploads/Clive.wav
 
 **QSSTV** is a utility for dealing with slow scan television signals. From the challenge description, we can pick out a hint “When I eat too many Tim Tams, I get rather slow!”.
 
-![Glorious Meme from Down Under](./sstv-meme.png)
+I used the following commands to setup qsstv on linux
 
-There's some text suspiciously similar to the flag format `QHPGS{UHZOYR_Z3Z3_1BEQ}`. A simple ROT13, and we get our flag `DUCTF{HUMBLE_M3M3_1ORD}`.
+```
+sudo apt-get install pavucontrol
+sudo apt-get install qsstv
+```
+
+We need the pavucontrol utility to be able to open audio files.
+
+Type qsstv on the terminal to open the program and select the audio file you’re going to work with
+
+![image]()
+
+qsstv maps the wav audio into an image and we can see at the top left what appears to be an encoded flag.`QHGPS{UHZOYR_Z3Z3_1BEQ}`
+
+This is ROT13, we decode the flag to: `DUTCF{HUMBLE_M3M3_1ORD}`
+
+Flag: DUTCF{HUMBLE_M3M3_1ORD}
 
 # <a name="forensics"></a> Forensics
 ## <a name="on-the-spectrum"></a> On the spectrum
