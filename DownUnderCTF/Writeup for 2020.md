@@ -63,7 +63,7 @@ I have no idea about baseball, but I know that the string looks like encoding an
 
 Flag: DUCTF{16_h0m3_run5_m34n5_runn1n6_p457_64_b4535}
 
-## <a name="Tim Tams"></a> Tim Tams
+## <a name="Tim Tams"></a>Tim Tams
 
 ``` When I eat too many Tim Tams, I get rather slow!
 
