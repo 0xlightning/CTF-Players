@@ -79,6 +79,8 @@ We are given a really noisy wav audio file, I had no clue of solving this at fir
 
 https://storage.googleapis.com/files.duc.tf/uploads/Clive.wav
 
+![image](https://raw.githubusercontent.com/lightningsarp/CTF-Players/master/DownUnderCTF/images/tim%20tams2.png)
+
 **QSSTV** is a utility for dealing with slow scan television signals. From the challenge description, we can pick out a hint “When I eat too many Tim Tams, I get rather slow!”.
 
 I used the following commands to setup qsstv on linux
@@ -92,7 +94,7 @@ We need the pavucontrol utility to be able to open audio files.
 
 Type qsstv on the terminal to open the program and select the audio file you’re going to work with
 
-![image]()
+![image](https://raw.githubusercontent.com/lightningsarp/CTF-Players/master/DownUnderCTF/images/tim%20tams.png)
 
 qsstv maps the wav audio into an image and we can see at the top left what appears to be an encoded flag.`QHGPS{UHZOYR_Z3Z3_1BEQ}`
 
