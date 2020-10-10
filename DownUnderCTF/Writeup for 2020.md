@@ -62,6 +62,29 @@ I have no idea about baseball, but I know that the string looks like encoding an
 
 Flag: DUCTF{16_h0m3_run5_m34n5_runn1n6_p457_64_b4535}
 
+## <a name="16-home-runs"></a> Tim Tams
+
+``` When I eat too many Tim Tams, I get rather slow!
+
+WARNING You will want to turn down your audio for this one!
+
+Download: https://storage.googleapis.com/files.duc.tf/uploads/Clive.wav
+
+File Hash (SHA256): 4C1CC12D002956A83E168CA650B776B55AAC36F2131D0DF617BE7D55DBEF93D1 
+```
+
+## Writeup
+
+We are given a really noisy wav audio file, I had no clue of solving this at first when my regular audio steganography tools failed. But my teammate came into play with a really good suggestion. **QSSTV !**
+
+https://storage.googleapis.com/files.duc.tf/uploads/Clive.wav
+
+**QSSTV** is a utility for dealing with slow scan television signals. From the challenge description, we can pick out a hint “When I eat too many Tim Tams, I get rather slow!”.
+
+![Glorious Meme from Down Under](./sstv-meme.png)
+
+There's some text suspiciously similar to the flag format `QHPGS{UHZOYR_Z3Z3_1BEQ}`. A simple ROT13, and we get our flag `DUCTF{HUMBLE_M3M3_1ORD}`.
+
 # <a name="forensics"></a> Forensics
 ## <a name="on-the-spectrum"></a> On the spectrum
 Points: 100
