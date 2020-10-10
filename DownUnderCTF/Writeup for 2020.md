@@ -4,7 +4,7 @@
 - [Misc](#misc)
     - [Welcome!](#welcome)
     - [16 Home Runs](#16-home-runs)
-    - [Tim Tams](#Tim Tams)
+    - [Tim Tams](#Tim-Tams)
 - [Forensics](#forensics)
     - [On the spectrum](#on-the-spectrum)
 
