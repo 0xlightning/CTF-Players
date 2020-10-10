@@ -48,7 +48,7 @@ When you connect to the machine a bounch of messages are displayed and you can n
 
 Flag: DUCTF{w3lc0m3_t0_DUCTF_h4v3_fun!}
 
-## <a name="Tim Tams"></a> 16 Home Runs
+## <a name="16 Home Runs"></a> 16 Home Runs
 Points: 100
 
 #### Description
