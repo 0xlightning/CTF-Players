@@ -9,12 +9,12 @@ Points : 100
 >http://web.darkarmy.xyz
 
 ## Attachments
- > [index.php](https://raw.githubusercontent.com/lightningsarp/CTF-Players/master/DARKCTF/files/flag.PNG)
+ > [index.php](files/index.html)
 
 ## Solution
 The provided URL links to this page.
 
-![page](https://raw.githubusercontent.com/lightningsarp/CTF-Players/master/DARKCTF/files/page.PNG)
+![page](files/page.PNG)
 
 In the provided source code there is a small php code.
 
@@ -47,6 +47,6 @@ if (is_numeric($web)){
 >which is numeric, its length is 3 and its value is 900000.
 >I reloaded the page and got the flag.
 
-![flag](https://github.com/SamIsland/DarkCTF2020/blob/master/source/flag.PNG)
+![flag](files/flag.PNG)
 
 >Flag : darkCTF{changeing_http_user_agent_is_easy}
