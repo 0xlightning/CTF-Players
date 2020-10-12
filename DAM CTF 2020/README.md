@@ -1,4 +1,4 @@
-## WRITEUP 
+# WRITEUP 2020 [team](https://ctftime.org/team/135396) 
 
 ## MISC 
 ### rules
