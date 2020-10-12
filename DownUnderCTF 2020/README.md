@@ -1,5 +1,5 @@
 # OUR FIRST WRITEUP :?
-[TEAM](https://ctftime.org/team/133160)
+# [TEAM](https://ctftime.org/team/133160)
 - [Web](#web)
     - [Leggos](#leggos)
 - [Misc](#misc)
