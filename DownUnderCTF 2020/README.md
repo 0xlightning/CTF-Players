@@ -131,8 +131,10 @@ Points : 10
 
 >Take a look at the official [Twitter](https://twitter.com/DownUnderCTF).
 >There are those tweets, but they seem to be base64 encoded.
->![twitter.png](images / twitter.png)
->Decode. 
+
+![twitter.png](images/twitter.png)
+
+Decode. 
 ```bash
 $ python
 >>> import base64
