@@ -3,7 +3,7 @@
 
 ###  Thanks for Visiting
 
-A noob reacher ```lightingsarp``` && ```harish0x```<br />
-A member in **TNCSC** 
+A noob reachers ```lightingsarp```&&```IamFromIndia``` && ```harish0x```<br />
+We are members in **TNCSC** 
 
 ``` 0X0X0💛```
