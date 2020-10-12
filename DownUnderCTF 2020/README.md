@@ -21,11 +21,11 @@ Points: 100
 ### Solution
 We are prompted with a page containing some text and an image. Trying to view the source HTML we notice that we can't do a Right Click. 
 
-![image](https://raw.githubusercontent.com/lightningsarp/CTF-Players/master/DownUnderCTF/images/web.png)
+![image](https://raw.githubusercontent.com/lightningsarp/CTF-Players/blob/master/DownUnderCTF%202020/images/web.png)
 
 No problem, we append in the URL `view-source:`, so it becomes `view-source:https://chal.duc.tf:30101/`. Inside the HTML we have a hint saying `<!-- almost there -->`. We open the source code of an imported JS file and we get the flag.
 
-![image](https://raw.githubusercontent.com/lightningsarp/CTF-Players/master/DownUnderCTF/images/web2.png)
+![image](https://raw.githubusercontent.com/lightningsarp/CTF-Players/master/DownUnderCTF%202020/images/web2.png)
 
 Flag: DUCTF{n0_k37chup_ju57_54uc3_r4w_54uc3_9873984579843}
 
@@ -44,7 +44,7 @@ Points: 100
 ### Solution
 When you connect to the machine a bounch of messages are displayed and you can not execute any command. I tried to `scp` the whole home directory, but the script that displayed the messages on ssh connection was throwing some error. Looking more closely, the flag is displayed among the other messages.
 
-![image](https://raw.githubusercontent.com/lightningsarp/CTF-Players/master/DownUnderCTF/images/Screenshot%20from%202020-10-09%2022-31-29.png)
+![image](https://github.com/lightningsarp/CTF-Players/blob/master/DownUnderCTF%202020/images/Screenshot%20from%202020-10-09%2022-31-29.png)
 
 Flag: DUCTF{w3lc0m3_t0_DUCTF_h4v3_fun!}
 
@@ -59,7 +59,7 @@ Points: 100
 ### Solution
 I have no idea about baseball, but I know that the string looks like encoding and it's not base 16 (hex). Base64 deconding it gives us the flag.
 
-![image](https://raw.githubusercontent.com/lightningsarp/CTF-Players/master/DownUnderCTF/images/Screenshot%20from%202020-10-09%2022-14-58.png)
+![image](https://github.com/lightningsarp/CTF-Players/blob/master/DownUnderCTF%202020/images/Screenshot%20from%202020-10-09%2022-14-58.png)
 
 Flag: DUCTF{16_h0m3_run5_m34n5_runn1n6_p457_64_b4535}
 
@@ -120,6 +120,6 @@ Points: 100
 ### Solution
 We get a `.wav` file and, as the title suggest, we might find the flag in the spectogram. For viewing it I used [Sonic Visualizer](https://sonicvisualiser.org/). I played a little with the settings to view it better.
 
-![image](https://raw.githubusercontent.com/lightningsarp/CTF-Players/master/DownUnderCTF/images/On%20the%20spectrum.png)
+![image](https://raw.githubusercontent.com/lightningsarp/CTF-Players/master/DownUnderCTF%202020/images/On%20the%20spectrum.png)
 
 Flag: DUCTF{m4bye_n0t_s0_h1dd3n}
