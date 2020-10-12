@@ -104,6 +104,21 @@ This is ROT13, we decode the flag to: `DUTCF{HUMBLE_M3M3_1ORD}`
 
 Flag: DUTCF{HUMBLE_M3M3_1ORD}
 
+## <a name="Discord"></a> Discord
+Points : 10
+
+#### Description
+
+JOIN OUR DISCORD!  
+![image.jpg](images/1l151h.jpg)  
+
+### Solution
+Take a look at the official [Discord](https://duc.tf/discord).
+It was written in general.
+![discord.png](images/discord.png) 
+
+Flag : DUCTF{c0n6r475_y0u_h4v3_n0w_j01n3d_0ur_4m4z1n6_d15c0rd}
+
 # <a name="forensics"></a> Forensics
 ## <a name="on-the-spectrum"></a> On the spectrum
 Points: 100
