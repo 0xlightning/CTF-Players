@@ -21,7 +21,7 @@ Points: 100
 ### Solution
 We are prompted with a page containing some text and an image. Trying to view the source HTML we notice that we can't do a Right Click. 
 
-![image](https://raw.githubusercontent.com/lightningsarp/CTF-Players/blob/master/DownUnderCTF%202020/images/web.png)
+![image](https://raw.githubusercontent.com/lightningsarp/CTF-Players/master/DownUnderCTF%202020/images/web.png)
 
 No problem, we append in the URL `view-source:`, so it becomes `view-source:https://chal.duc.tf:30101/`. Inside the HTML we have a hint saying `<!-- almost there -->`. We open the source code of an imported JS file and we get the flag.
 
@@ -96,7 +96,7 @@ We need the pavucontrol utility to be able to open audio files.
 
 Type qsstv on the terminal to open the program and select the audio file you’re going to work with
 
-![image](https://raw.githubusercontent.com/lightningsarp/CTF-Players/master/DownUnderCTF/images/tim%20tams.png)
+![image](https://raw.githubusercontent.com/lightningsarp/CTF-Players/master/DownUnderCTF%202020/images/tim%20tams.png)
 
 qsstv maps the wav audio into an image and we can see at the top left what appears to be an encoded flag.`QHGPS{UHZOYR_Z3Z3_1BEQ}`
 
