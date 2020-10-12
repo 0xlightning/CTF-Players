@@ -5,6 +5,8 @@
     - [Welcome!](#welcome)
     - [16 Home Runs](#16-home-runs)
     - [Tim Tams](#Tim-Tams)
+    - [Discord](#Discord)
+    - []()
 - [Forensics](#forensics)
     - [On the spectrum](#on-the-spectrum)
 
