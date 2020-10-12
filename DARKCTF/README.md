@@ -1,15 +1,18 @@
-# Source - WEB - 101pts
+# Source 
+# WEB 
+Points : 101pts
+
 ## Description
 Don't know source is helpful or not !!
 http://web.darkarmy.xyz
 
 ## Attachments
- > [index.php](https://github.com/SamIsland/DarkCTF2020/blob/master/source/index.php)
+ > [index.php](https://raw.githubusercontent.com/lightningsarp/CTF-Players/master/DARKCTF/files/flag.PNG)
 
 ## Solution
 The provided URL links to this page.
 
-![page](https://github.com/SamIsland/DarkCTF2020/blob/master/source/page.PNG)
+![page](https://raw.githubusercontent.com/lightningsarp/CTF-Players/master/DARKCTF/files/page.PNG)
 
 In the provided source code there is a small php code.
 
