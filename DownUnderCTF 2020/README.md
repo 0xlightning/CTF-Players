@@ -6,7 +6,7 @@
     - [16 Home Runs](#16-home-runs)
     - [Tim Tams](#Tim-Tams)
     - [Discord](#Discord)
-    - []()
+    - [Twitter](#Twitter)
 - [Forensics](#forensics)
     - [On the spectrum](#on-the-spectrum)
 
@@ -120,6 +120,28 @@ It was written in general.
 ![discord.png](images/discord.png) 
 
 Flag : DUCTF{c0n6r475_y0u_h4v3_n0w_j01n3d_0ur_4m4z1n6_d15c0rd}
+
+## <a name="Twitter"></a> Twitter
+Points : 10
+
+#### Description
+> Check out our Twitter! Find the post with the flag! You can give us a follow if you like <3  
+
+### Solution
+
+>Take a look at the official [Twitter](https://twitter.com/DownUnderCTF).
+>There are those tweets, but they seem to be base64 encoded.
+>![twitter.png](images / twitter.png)
+>Decode. 
+```bash
+$ python
+>>> import base64
+>>> text = "RFVDVEZ7aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj1YZlI5aVk1eTk0c30="
+>>> print(base64.b64decode(text))
+b'DUCTF{https://www.youtube.com/watch?v=XfR9iY5y94s}'
+```
+
+Flag : DUCTF{https&#58;//www.youtube.com/watch?v=XfR9iY5y94s}
 
 # <a name="forensics"></a> Forensics
 ## <a name="on-the-spectrum"></a> On the spectrum
