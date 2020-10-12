@@ -5,6 +5,7 @@ Points : 100
 ## Description
 
 >Don't know source is helpful or not !!
+
 >http://web.darkarmy.xyz
 
 ## Attachments
@@ -35,16 +36,16 @@ if (is_numeric($web)){
 ?>
 ```
 
-The code checks the user agent against three conditions:
-* If it's numeric
-* If its length is less than 4
-* If its value is greater than 10000
-
-At first i didn't know what value could meet these conditions simultaneously, because of course there's no way
-that a number is greater than 10000 and its length is less than 4 at the same time.
-But then i remembered that PHP allows numbers to be written in scientific notation (ie. 5e10) so i changed my user agent to `9e5`
-which is numeric, its length is 3 and its value is 900000.
-I reloaded the page and got the flag.
+>The code checks the user agent against three conditions:
+>* If it's numeric
+>* If its length is less than 4
+>* If its value is greater than 10000
+>
+>At first i didn't know what value could meet these conditions simultaneously, because of course there's no way
+>that a number is greater than 10000 and its length is less than 4 at the same time.
+>But then i remembered that PHP allows numbers to be written in scientific notation (ie. 5e10) so i changed my user agent to `9e5`
+>which is numeric, its length is 3 and its value is 900000.
+>I reloaded the page and got the flag.
 
 ![flag](https://github.com/SamIsland/DarkCTF2020/blob/master/source/flag.PNG)
-`darkCTF{changeing_http_user_agent_is_easy}`
+Flag : darkCTF{changeing_http_user_agent_is_easy}
