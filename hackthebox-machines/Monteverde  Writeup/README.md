@@ -8,7 +8,7 @@ Monteverde,a Windows box created by HackTheBox user `egre55`, was an overall med
 
 ### nmap scan
 ```
-### Nmap 7.80 scan initiated Tue June 2 14:11:44 2020 as: nmap -T4 -sC -sV -oN nmap/monteverde 10.10.10.172
+# Nmap 7.80 scan initiated Tue June 2 14:11:44 2020 as: nmap -T4 -sC -sV -oN nmap/monteverde 10.10.10.172
 Nmap scan report for 10.10.10.172
 Host is up (0.21s latency).
 Not shown: 989 filtered ports
@@ -44,7 +44,7 @@ Host script results:
 |_  start_date: N/A
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
-### Nmap done at Sat Jan 11 14:17:14 2020 -- 1 IP address (1 host up) scanned in 329.68 seconds
+# Nmap done at Sat Jan 11 14:17:14 2020 -- 1 IP address (1 host up) scanned in 329.68 seconds
 ```
 we see all the ports are `Active Directory` and `SMB` related
 
