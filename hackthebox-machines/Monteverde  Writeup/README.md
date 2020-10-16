@@ -49,7 +49,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 we see all the ports are `Active Directory` and `SMB` related
 
 running `emum4linux` we get a list of usernames.
-
+```
 =============================
 |    Users on 10.10.10.172    |
 =============================
@@ -74,7 +74,7 @@ user:[svc-netapp] rid:[0xa2d]
 user:[dgalanos] rid:[0xa35]
 user:[roleary] rid:[0xa36]
 user:[smorgan] rid:[0xa37]
-
+```
 using that we can create a `users.txt` as
 ```
 Guest
