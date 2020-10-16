@@ -1,5 +1,5 @@
 # Hackthebox - Monteverde
-
+![image](Monteverde.png)
 ## Summary
 
 Monteverde,a Windows box created by HackTheBox user `egre55`, was an overall medium difficulty box. Initial foothold was finding a cred which was a result of a lazy sysadmin. using that we can find credentials for user in a ```azure.xml``` file. checking the group of that user we see it is in Azure Admin group which mean it can perform DCSync using that we can get administrator credentials and pwned this box.
