@@ -92,7 +92,45 @@ smorgan
 
 Trying the same username as password we get a successful credential as `SABatchJobs:SABatchJobs`
 
-Trying that on `winrm` we get Invalid credential so lets try on `smb`, and Bingo
+Trying that on `winrm` we get `Invalid credential` so lets try on `smb`, and Bingo
 
 we can list and Read lot of shares checking //10.10.10.172/users$ share we see there is a `azure.xml` in `mhope` directory
+```
+<Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04">
+  <Obj RefId="0">
+    <TN RefId="0">
+      <T>Microsoft.Azure.Commands.ActiveDirectory.PSADPasswordCredential</T>
+      <T>System.Object</T>
+    </TN>
+    <ToString>Microsoft.Azure.Commands.ActiveDirectory.PSADPasswordCredential</ToString>
+    <Props>
+      <DT N="StartDate">2020-01-03T05:35:00.7562298-08:00</DT>
+      <DT N="EndDate">2054-01-03T05:35:00.7562298-08:00</DT>
+      <G N="KeyId">00000000-0000-0000-0000-000000000000</G>
+      <S N="Password">4n0therD4y@n0th3r$</S>
+    </Props>
+  </Obj>
+</Objs>
+```
+which contain the password as `4n0therD4y@n0th3r$` for `mhope`.
 
+Trying that with [evil-winrm](https://github.com/Hackplayers/evil-winrm) we get a shell as mhope using that we can grab users.txt as `4961976bd7d8f4eeb2ce3705e2f212f2`
+
+## Privilege Escalation
+
+Taking a look to the privileges of this user you can find that it is a member of the group Azure Admins
+
+which means we can do DCSync.
+
+Reading about any exploits for Azure Admin Sync we stumble upon [xpnsec](https://blog.xpnsec.com/about/) [blog](https://blog.xpnsec.com/azuread-connect-for-redteam/)
+
+Performing the attack is as easy as downloading the PS1 [script](https://github.com/Hackplayers/PsCabesha-tools/blob/master/Privesc/Azure-ADConnect.ps1) and executing that.
+
+```
+Domain: MEGABANK.LOCAL
+Username: administrator
+Password: d0m@in4dminyeah!
+```
+
+and we have credential for administrator using that we can grab root.txt as `12909612d25c8dcf6e5a07d1a804a0bc`
+and we have pwned Monteverde💃💃💃
