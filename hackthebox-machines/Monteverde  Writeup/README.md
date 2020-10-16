@@ -133,4 +133,4 @@ Password: d0m@in4dminyeah!
 ```
 
 and we have credential for administrator using that we can grab root.txt as `12909612d25c8dcf6e5a07d1a804a0bc`
-and we have pwned Monteverde💃💃💃
+and we have pwned  `Monteverde` 💃💃💃
