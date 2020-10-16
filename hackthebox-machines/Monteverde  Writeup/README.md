@@ -78,8 +78,11 @@ running `emum4linux` we get a list of usernames.
 using that we can create a `users.txt` as
 
 >Guest
+
 >AAD_987d7f2f57d2
+
 >mhope
+
 >SABatchJobs
 >svc-ata
 >svc-bexec
