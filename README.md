@@ -3,7 +3,7 @@
 
 ###  Thanks for Visiting
 
-Noob reachers from INDIA ```lightingsarp```&&```IamFromIndia``` && ```harish0x```<br />
+Noob reachers from INDIA ```lightingsarp```&&```IamFromIndia``` <br />
 We are members in **TNCSC (TamilNadu Cyber Security Council)** 
 
 ``` 0X0X0💛```
