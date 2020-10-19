@@ -1,5 +1,5 @@
 # CTF PLAYERS
-   I liked to do writeups for ctf tournament in the world. if we participate on that :?
+   we are just noob's . we could like to do something stupid then you though . Please help us to reach the top spot one day :?
 
 ###  Thanks for Visiting
 
