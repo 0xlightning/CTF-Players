@@ -14,6 +14,6 @@ Points : 100
  
  ![image](files/DamCTF 2020 Rules + Details - Google Docs.pdf)
  
- [file](files/DamCTF2020RulesDetailsGoogleDocs.pdf)
+ [file](/files/Screenshot from 2020-10-12 18-46-48.pdf)
  
  Flag : dam{rul3s_ar3_t00_c00l_f0r_sk00l}
