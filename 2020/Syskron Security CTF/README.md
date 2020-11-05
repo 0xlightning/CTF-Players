@@ -5,11 +5,11 @@
 **Duration:** 21st Oct, 2020 02:00 CEST - 26th Oct, 2020 01:00 CEST
 
 **Description:**
-```txt
-The 2020 Syskron Security CTF event is a free online cyber security competition for everyone. This year's CTF event features an original background story! You act as a cyber security professional, working for a Czech manufacturing company.
 
-We provide 20 challenges focused on industrial security (all levels of difficulty). Most challenges are derived from real-world security problems, so you have fun and learn about actual cyber security!
-```
+>The 2020 Syskron Security CTF event is a free online cyber security competition for everyone. This year's CTF event features an original background story! You act as a cyber security professional, working for a Czech manufacturing company.
+
+>We provide 20 challenges focused on industrial security (all levels of difficulty). Most challenges are derived from real-world security problems, so you have fun and learn about actual cyber security!
+
 
 **Website:** [ctf2020.syskron-security.com](https://ctf2020.syskron-security.com/)
 
