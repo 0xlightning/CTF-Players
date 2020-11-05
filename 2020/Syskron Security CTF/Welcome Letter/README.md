@@ -2,9 +2,9 @@
 
 >Points - 20
 
->Read the letter!
+>Read the letter
 
->Actually... the task description is pretty precise about what you need to do ^^.
+>Actually... the task description is pretty precise about what you need to do .
 
 ---
 
