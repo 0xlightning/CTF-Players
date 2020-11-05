@@ -4,7 +4,7 @@
 
 >Points - 300
 
-This is our official key generator that we use to derive keys from machine numbers. Our developer put a secret in its code. Can you find it?
+>This is our official key generator that we use to derive keys from machine numbers. Our developer put a secret in its code. Can you find it?
 
 ---
 
