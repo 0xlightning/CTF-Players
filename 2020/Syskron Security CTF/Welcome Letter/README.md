@@ -2,10 +2,11 @@
 
 Points - 20
 
-
 Read the letter!
 
 Actually... the task description is pretty precise about what you need to do ^^.
+
+---
 
 ![am-i-sane](./am-i-sane.png)
 
