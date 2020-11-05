@@ -11,7 +11,7 @@ Another stego challenge... This time you could have found the flag by either sim
 
 ![copyright](./copyright.png)
 
-this copyright notice looks suspiciously like some JavaScript code ... Let's paste it into the browser console and see what happens (not always a good idea, i know )
+this copyright notice looks suspiciously like some JavaScript code ... Let's paste it into the browser console and see what happens (not always a good idea, i know :)
 
 ![js](./js.png)
 
