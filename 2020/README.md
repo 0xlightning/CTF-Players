@@ -1,7 +1,4 @@
-# 2020
-
-### Index
-
+## Pages of 2020
 
   * [DAM CTF](DAMCTF)
   * [DARK CTF](DARKCTF)
