@@ -6,7 +6,7 @@ Points - 100
 
 ---
 
-> Like pretty much every _steganography_ challenge, this one too can be solved by simply using `stegsolve`.
+Like pretty much every _steganography_ challenge, this one too can be solved by simply using `stegsolve`.
 
 ![stegsolve](./stegsolve.png)
 
