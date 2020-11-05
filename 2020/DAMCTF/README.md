@@ -12,7 +12,7 @@ Points : 100
  In Rules section nothing intresting in it, but i saw file And I starting reading deaper into it. 
  On the Rules section I got two flag .So, I tested it manually and i won this challenge.  
  
- ![image](https://raw.githubusercontent.com/lightningsarp/CTF-Players/master/DAM%20CTF%202020/files/Screenshot%20from%202020-10-12%2018-46-48.png)
+ ![image](files/DamCTF 2020 Rules + Details - Google Docs.pdf)
  
  [file](files/DamCTF2020RulesDetailsGoogleDocs.pdf)
  
