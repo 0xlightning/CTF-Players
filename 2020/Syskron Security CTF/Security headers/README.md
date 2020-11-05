@@ -1,8 +1,8 @@
 # Security headers
 
-Points - 100
+>Points - 100
 
-Can you please check the security-relevant HTTP response headers on www.senork.de. Do they reflect current best practices?
+>Can you please check the security-relevant HTTP response headers on www.senork.de. Do they reflect current best practices?
 
 ---
 
