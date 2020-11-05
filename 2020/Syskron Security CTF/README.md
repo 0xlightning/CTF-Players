@@ -1,7 +1,4 @@
 # Syskron Cyber Security CTF
-_1ndu5tr14l s3cur1ty_
-
----
 
 ## About
 
@@ -36,6 +33,3 @@ _to be written_
 * **Friday**
   * [500pts - Firmware update](Firmware%20update/README.md)
 
----
-
-... B34nB01z (October 2020)
