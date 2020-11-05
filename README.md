@@ -10,7 +10,7 @@ Please, feel free to point out any errors you may find or suggestions you want t
 
 # Pages
 
-**No.2020**
+**Number 2020**
 
   * [DAM CTF](DAMCTF)
   * [DARK CTF](DARKCTF)
