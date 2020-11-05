@@ -1,7 +1,4 @@
-# Writeups
-_H4ck1n9 4ll th3 b34n5_
-
----
+# 2020
 
 ## What is this?
 
@@ -11,13 +8,9 @@ Please, feel free to point out any errors you may find or suggestions you want t
 
 ## Index
 
-* **2020**
+**2020**
+
   * [REPLY Cyber Security Challenge](2020/REPLY/README.md)
   * [Hacktober CTF](2020/Hacktober/README.md)
-  * [Hack.lu CTF](2020/hack.lu/README.md)
+  * 
   * [Syskron Security CTF](2020/Syskron/README.md)
-  * [CyberYoddha CTF](2020/CYCTF/README.md)
-
----
-
-... B34nB01z (October 2020)
