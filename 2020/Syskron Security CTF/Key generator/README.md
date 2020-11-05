@@ -42,4 +42,4 @@ Simply split the weird long string at every `9` (since this obviously doesn't ex
 163 171 163 153 162 157 156 103 124 106 173 67 110 111 123 55 151 163 156 67 55 163 63 143 125 162 63 55 143 60 104 111 116 71 175
 ```
 
-... this gives us the flag: `syskronCTF{7HIS-isn7-s3cUr3-c0DIN9}`
+this gives us the flag: `syskronCTF{7HIS-isn7-s3cUr3-c0DIN9}`
