@@ -1,12 +1,12 @@
-## CTF-Players
+# CTF-Players
 
 
-#### What is this?
+### What is this?
 
 This repository will be updated regularly with writeups for all challenges we managed to solve in all CTFs we competed in.
 Please, feel free to point out any errors you may find or suggestions you want to make!
 
-## Pages
+# Pages
 
 **2020**
 
