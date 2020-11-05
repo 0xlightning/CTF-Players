@@ -1,8 +1,8 @@
 # Firmware update
 
 >Reversing
-Points - 500
 
+>Points - 500
 
 >The crypto software LibrePLC at BB Industry is continuously receiving updates. Unfortunately, the responsible employee left the company a few weeks ago and hasn't deployed the most recent firmware with important security updates. He just left a note with 5157CA3SDGF463249FBF.
 
