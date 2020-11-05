@@ -10,7 +10,7 @@ Please, feel free to point out any errors you may find or suggestions you want t
 
 **2020**
 
-  * [DAM CTF](2020/DAMCTF)
-  * [DARK CTF](2020/DARKCTF)
-  * [DownUnder CTF](2020/DownUnderCTF)
-  * [Syskron Security CTF](2020/)
+  * [DAM CTF](DAMCTF)
+  * [DARK CTF](DARKCTF)
+  * [DownUnder CTF](DownUnderCTF)
+  * [Syskron Security CTF](/)
