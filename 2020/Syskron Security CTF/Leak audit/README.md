@@ -1,8 +1,10 @@
 # Leak audit
 
-![Forensics](https://img.shields.io/badge/Forensics--8700ff?style=for-the-badge) ![Points - 200](https://img.shields.io/badge/Points-200-9cf?style=for-the-badge)
+>Forensics
 
-```txt
+>Points - 200
+
+```
 We found an old dump of our employee database on the dark net! Please check the database and send us the requested information:
 
     How many employee records are in the file?
@@ -54,7 +56,7 @@ FROM    personal
 WHERE   password LIKE '$2b$%';
 ```
 
-```txt
+```
 21
 ```
 
