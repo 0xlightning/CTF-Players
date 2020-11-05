@@ -79,13 +79,15 @@ print(keys(get_it(check())))
 >that's much better! We can now clearly see what this script is doing:
 
 >1. it takes a filename as a command line argument.
-2. then it computes the sha256 hash of the file's contents
-3. and last but not least, some replacing and weird stuff is happening, only for the result to be returned and printed.
 
-what file could we possibly need in order to retrieve a proper value from this `keys()` function let's try the weird.bin file that was also part of the first zip archive 
+>2. then it computes the sha256 hash of the file's contents
 
->$ ./key.py LibrePLC_fw_1.0.0.bin
-7SYSCC3076BDCTF13CC9CTFA6CB7SYSCC3076CD56579549EC5AB533EN03AFC1F9N
+>3. and last but not least, some replacing and weird stuff is happening, only for the result to be returned and printed. 
+
+what file could we possibly need in order to retrieve a proper value from this `keys()` function let's try the weird.bin file that was also part of the first zip archive      
+
+`$ ./key.py LibrePLC_fw_1.0.0.bin
+7SYSCC3076BDCTF13CC9CTFA6CB7SYSCC3076CD56579549EC5AB533EN03AFC1F9N`
 
 
 this couldn't, by any chance be the password to the next zip archive, could it? it is! Repeat this with the _bin_ file in the second zip archive until you have extracted the contents of the last archive `LibrePLC_fw_1.0.2.zip`.
