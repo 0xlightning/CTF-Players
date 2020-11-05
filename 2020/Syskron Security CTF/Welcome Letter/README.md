@@ -1,6 +1,6 @@
 # Welcome Letter
 
-![Sanitycheck](https://img.shields.io/badge/Sanitycheck--d100ff?style=for-the-badge) ![Points - 20](https://img.shields.io/badge/Points-20-9cf?style=for-the-badge)
+Points - 20
 
 ```txt
 Read the letter!
