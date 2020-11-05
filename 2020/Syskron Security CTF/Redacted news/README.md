@@ -1,6 +1,8 @@
 # Redacted news
 
-Points - 100
+>Steganography
+
+>Points - 100
 
 > Oh, this is a news report on our Secure Line project. But someone removed a part of the story?!
 
