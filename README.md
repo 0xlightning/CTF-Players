@@ -1,4 +1,4 @@
-# CTF-Players
+## CTF-Players
 
 
 ### What is this?
@@ -7,7 +7,7 @@
 Please, feel free to point out any errors you may find or suggestions you want to make!
 
 
-# Pages
+## Pages
 
 **Page Number 2020**
 
