@@ -1,5 +1,5 @@
-# Syskron Cyber Security CTF
-[team](https://ctftime.org/team/137058)
+# Syskron Cyber Security CTF [team](https://ctftime.org/team/137058)
+
 ## About
 
 **Duration:** 21st Oct, 2020 02:00 CEST - 26th Oct, 2020 01:00 CEST
