@@ -30,6 +30,4 @@ _to be written_
   * [200pts - Leak audit](Leak%20audit/README.md)
 * **Wednesday**
   * [300pts - Key generator](Key%20generator/README.md)
-* **Friday**
-  * [500pts - Firmware update](Firmware%20update/README.md)
 
