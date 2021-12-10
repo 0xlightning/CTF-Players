@@ -1,3 +1,0 @@
-# AERO CTF [team]()
-
-
