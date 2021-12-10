@@ -18,6 +18,6 @@ Please, feel free to point out any errors you may find or suggestions you want t
   
 **Page Number 2021**
 
-* [AERO CTF](2021/AEROCTF)
+* 
 
 ``` 0X0X0💛```
