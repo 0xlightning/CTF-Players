@@ -1,9 +1,3 @@
-<nav style="background:#1e1e1e;color:#fff;padding:10px;display:flex;gap:15px;font-family:Arial,Helvetica,sans-serif;">
-<a href="https://0xlightning.github.io/CTF-Players/" style="color:#00D9FF;text-decoration:none;">Home</a>
-<a href="https://0xlightning.github.io/CTF-Players/2020/" style="color:#00D9FF;text-decoration:none;">2020</a>
-</nav>
-<div style="margin:10px 0;font-size:14px;"><span style="color:#00D9FF"><a href="https://0xlightning.github.io/CTF-Players/" style="color:#00D9FF;text-decoration:none;">Home</a></span></div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:26A69A&height=130&section=header&text=CTF-Players&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=0xlightning%20%C2%B7%20Capture%20The%20Flag%20Writeups&descAlignY=60&descSize=15" width="100%" />
 </div>
