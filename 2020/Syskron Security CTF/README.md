@@ -15,7 +15,7 @@
 
 ## Conclusion
 
-_to be written_
+The 2020 Syskron Security CTF event concluded successfully, providing a great learning experience for participants in industrial security.
 
 ## Index
 

@@ -16,4 +16,4 @@ First, take a quick look at the provided _pcap_ file. See that it consists solel
 
 now simply do a Google search for something like `siemens dos dns` - looking at the results you'll find several articles like [this one](https://www.securityweek.com/flaws-expose-siemens-protection-relays-dos-attacks) which inform you that the malware's name is in fact `Industroyer`.
 
-The flag therefore was: `flag{Industroyer}`
+The flag therefore was: `syskronCTF{Industroyer}`

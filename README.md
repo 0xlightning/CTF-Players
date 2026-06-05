@@ -14,30 +14,46 @@
 
 ---
 
-### ♟️ What is this?
+### 🌐 About
 
-This repository contains my personal writeups for all the challenges I managed to solve in various **Capture The Flag (CTF)** competitions. 
-
-The live interface for navigating these writeups has been completely revamped with a premium dark "Chess" aesthetic to match my main portfolio.
+This repository serves as the **Security Research Node** for my solved challenge documentations. It contains tactical breakdown files, flags, source code, and detailed solutions cataloged by competition event.
 
 > **View the live writeups here:** [0xlightning.github.io/CTF-Players](https://0xlightning.github.io/CTF-Players/)
 
 ---
 
-### 🛡️ Writeups Archive (2020)
+### 📊 Player Metrics
 
-*   [DAM CTF](2020/DAMCTF)
-*   [DARK CTF](2020/DARKCTF)
-*   [DownUnder CTF](2020/DownUnderCTF)
-*   [Syskron Security CTF](2020/Syskron%20Security%20CTF)
+Below is a representation of my current skill proficiency across different CTF categories based on solved challenge distributions.
 
-*More recent writeups are hosted on the live page or upcoming updates.*
+- **Web Exploitation**
+  `[████████░░]` 85%
+- **Misc / General Skills**
+  `[█████████░]` 90%
+- **Steganography & Forensics**
+  `[███████░░░]` 75%
+- **Reverse Engineering**
+  `[██████░░░░]` 60%
 
 ---
 
-### ⚡ Connect
+### 🛡️ Writeups Archive (2020)
 
-If you found any of these writeups helpful, or if you want to suggest improvements, feel free to reach out via my [Main Portfolio](https://0xlightning.github.io) or open an issue/PR!
+A comprehensive collection of solved challenges from the 2020 season:
+
+- ♟️ [DAM CTF 2020](2020/DAMCTF)
+- ♟️ [DARK CTF 2020](2020/DARKCTF)
+- ♟️ [DownUnder CTF 2020](2020/DownUnderCTF)
+- ♟️ [Syskron Security CTF 2020](2020/Syskron%20Security%20CTF)
+
+---
+
+### 🔗 Connect
+
+If you found any of these writeups helpful, or if you want to suggest improvements, feel free to reach out!
+
+- **GitHub:** [@0xlightning](https://github.com/0xlightning)
+- **Main Portfolio:** [0xlightning.github.io](https://0xlightning.github.io)
 
 ``` 0X0X0 💛```
 

@@ -18,7 +18,7 @@ Reversing the given binary you'll discover a couple of things:
 
 ![strrev](./strrev.png)
 
-This is were it gets interesting:
+This is where it gets interesting:
 
 * if the strings don't match, it'll just generate some random serial number according to this pattern:
 
@@ -26,7 +26,7 @@ This is were it gets interesting:
 inp[6]-6 + inp[5]-5 + inp[4]-4 + ... + inp[0]-0
 ```
 
-* if the string do match, however, it calls the function `octal()` which prints the following:
+* if the strings do match, however, it calls the function `octal()` which prints the following:
 
 ```
 1639171916391539162915791569103912491069173967911091119123955915191639156967955916396391439125916296395591439609104911191169719175

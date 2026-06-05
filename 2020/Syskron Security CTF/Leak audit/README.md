@@ -18,7 +18,7 @@ Flag format: answer1_answer2_answer3 (e.g., 1000_passw0rd_987).
 
 ---
 
-The simplest way to solve this is probably to just open the databsae using `sqlite3` ... A simple `.schema` will now inform you about the database's general structure:
+The simplest way to solve this is probably to just open the database using `sqlite3` ... A simple `.schema` will now inform you about the database's general structure:
 
 ![schema](./schema.png)
 
@@ -60,4 +60,4 @@ WHERE   password LIKE '$2b$%';
 21
 ```
 
-Now, reconstructing the flag was no problem at all: `flag{376_mah6geiVoo_21}`
+Now, reconstructing the flag was no problem at all: `syskronCTF{376_mah6geiVoo_21}`
